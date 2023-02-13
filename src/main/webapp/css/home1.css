@@ -1,0 +1,32 @@
+
+
+body 
+{
+	background-image:url('5.jpeg');
+	 background-size:cover;
+	 background-repeat: no-repeat;
+	 
+}
+
+.container
+{
+	margin:0px;
+	padding:0px;
+	margin-top:20%;
+}
+
+button:hover {
+	    color:red;
+	     font-size: 25px;
+}
+
+input{
+	color:red;
+	 font-size: 25px;
+}
+
+
+h1
+{
+	color:white;
+}
